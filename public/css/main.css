@@ -21,6 +21,10 @@ h1 {
   color: white;
 }
 
+h2 {
+  color: yellow;
+}
+
 .error {
   color: red;
 }
